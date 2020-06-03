@@ -3,3 +3,5 @@
 ################################################################################
 
 /MicroMap/MicroMap.sln
+/MicroMap/obj
+/MicroMap/.vs/MicroMap/v16/.suo
